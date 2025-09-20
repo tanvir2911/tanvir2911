@@ -31,36 +31,34 @@
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Featured Projects
 
 <p align="center">
+
 <a href="https://github.com/tanvir2911/Cognota-LearnOps" target="_blank">
-  <img src="https://img.shields.io/badge/Cognota-LearnOps-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cognota-LearnOps-blue?style=for-the-badge&logo=react&logoColor=white" alt="Cognota LearnOps"/>
 </a>
+
 <a href="https://github.com/tanvir2911/RAISE-ERP" target="_blank">
-  <img src="https://img.shields.io/badge/RAISE-ERP-green?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAISE-ERP-green?style=for-the-badge&logo=java&logoColor=white" alt="RAISE ERP"/>
 </a>
+
 <a href="https://github.com/tanvir2911/Garage-Management-System" target="_blank">
-  <img src="https://img.shields.io/badge/Garage-Management-System-orange?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Garage-Management-System-orange?style=for-the-badge&logo=node.js&logoColor=white" alt="Garage Management System"/>
 </a>
+
 </p>
 
-### Live Demo GIFs
+### Project Details
 
-- **Cognota LearnOps**
-  <p align="center">
-    <img src="assets/gifs/cognota-demo.gif" alt="Cognota LearnOps Demo" width="600"/>
-  </p>
+- **Cognota LearnOps** – Learning operations platform with budgeting modules for 1000+ users.  
+  **Tech:** React, Express.js | Improved budget accuracy by 35% and reduced overspending by 25%.
 
-- **RAISE ERP**
-  <p align="center">
-    <img src="assets/gifs/raise-demo.gif" alt="RAISE ERP Demo" width="600"/>
-  </p>
+- **RAISE ERP** – Web-based ERP for Ministry of Expatriates’ Welfare, handling 10k+ applications/month.  
+  **Tech:** Java Spring Boot, Vue.js | Reduced application discrepancies by 45%.
 
-- **Garage Management System**
-  <p align="center">
-    <img src="assets/gifs/garage-demo.gif" alt="Garage Management System Demo" width="600"/>
-  </p>
+- **Garage Management System** – Booking, scheduling, and client management system deployed across 5+ facilities.  
+  **Tech:** Java Spring Boot, Vue.js | Reduced scheduling errors by 30%.
 
 ---
 
@@ -100,7 +98,7 @@
 ## 📫 Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mozammelhossain"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-mozammel-hossain-356376137"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hossainmozammel27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/tanvir2911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>

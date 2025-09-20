@@ -53,15 +53,15 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 
 <p align="center">
 
-<a href="https://github.com/tanvir2911/Cognota-LearnOps" target="_blank">
+<a href="https://github.com/tanvir2911/" target="_blank">
   <img src="https://img.shields.io/badge/Cognota-LearnOps-blue?style=for-the-badge&logo=react&logoColor=white" alt="Cognota LearnOps"/>
 </a>
 
-<a href="https://github.com/tanvir2911/RAISE-ERP" target="_blank">
+<a href="https://github.com/tanvir2911/" target="_blank">
   <img src="https://img.shields.io/badge/RAISE-ERP-green?style=for-the-badge&logo=java&logoColor=white" alt="RAISE ERP"/>
 </a>
 
-<a href="https://github.com/tanvir2911/Garage-Management-System" target="_blank">
+<a href="https://github.com/tanvir2911/" target="_blank">
   <img src="https://img.shields.io/badge/Garage--Management--System-orange?style=for-the-badge&logo=nodejs&logoColor=white" alt="Garage Management System"/>
 </a>
 

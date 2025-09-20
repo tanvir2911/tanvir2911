@@ -89,9 +89,10 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 
 ## 🏆 Problem Solving
 
-## 🏆 Problem Solving
-
-- Solved **100+ problems** on [LeetCode](https://leetcode.com/tanvir2911/), [Codeforces](https://codeforces.com/profile/mozammel.tanvir), and [CodeChef](https://www.codechef.com/users/tanvir2911).
+- Solved <strong>100+ problems</strong> on
+  <a href="https://leetcode.com/tanvir2911/" target="_blank">LeetCode</a>,
+  <a href="https://codeforces.com/profile/mozammel.tanvir" target="_blank">Codeforces</a>, and
+  <a href="https://www.codechef.com/users/tanvir2911" target="_blank">CodeChef</a>.
 
 <p align="center">
 <!-- LeetCode -->
@@ -122,15 +123,21 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tanvir2911&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="100%" />
+<a href="https://github.com/tanvir2911" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir2911&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="100%" />
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir2911&theme=tokyonight&hide_border=true" width="100%" />
+<a href="https://github.com/tanvir2911" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir2911&theme=tokyonight&hide_border=true" width="100%" />
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir2911&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<a href="https://github.com/tanvir2911" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir2911&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+</a>
 </p>
 
 ---
@@ -141,7 +148,7 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 <a href="https://www.linkedin.com/in/md-mozammel-hossain-356376137" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:hossainmozammel27@gmail.com">
+<a href="mailto:hossainmozammel27@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/tanvir2911" target="_blank">

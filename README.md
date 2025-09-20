@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Md. Mozammel Hossain
 
-### Full Stack Developer | Problem Solver | Lifelong Learner | Open Source Enthusiast
-
-Hi! I'm a software developer building scalable web apps with **Java, Spring Boot, Vue.js, React, Node.js, and Express**.  
-I enjoy solving problems, experimenting with new technologies (especially AI), and contributing to impactful projects.
+<p align="center">
+  <a href="https://github.com/tanvir2911">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&center=true&width=900&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&center=true&vCenter=true&width=100%25&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+🚀 Software developer building scalable web apps using <strong>Java Spring Boot, Vue.js, React, Node.js, Express</strong>. Passionate about problem-solving, AI experiments, and impactful projects.
 </p>
 
 ---

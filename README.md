@@ -148,7 +148,7 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 ## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=tanvir2911&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir2911&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true" width="100%" />
 </p>
 
 ---

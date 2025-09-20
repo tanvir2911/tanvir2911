@@ -96,17 +96,17 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 <p align="center">
 <!-- LeetCode -->
 <a href="https://leetcode.com/tanvir2911/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-60%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 <!-- Codeforces -->
 <a href="https://codeforces.com/profile/mozammel.tanvir" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-100%2B%20Problems-4FC08D?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-60%2B%20Problems-4FC08D?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 <!-- CodeChef -->
 <a href="https://www.codechef.com/users/tanvir2911" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-100%2B%20Problems-FF6D00?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-60%2B%20Problems-FF6D00?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 </p>
 

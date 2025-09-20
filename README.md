@@ -125,10 +125,10 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 
 ---
 
-## 👀 Profile Views
+## 📈 GitHub Contributions
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tanvir2911&label=Profile+Views&color=blue&style=flat" width="100%" />
+  <img src="https://github.com/tanvir2911.png?size=200" alt="GitHub Contributions" />
 </p>
 
 ---
@@ -136,19 +136,15 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tanvir2911/tanvir2911/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tanvir2911/tanvir2911/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://github.com/tanvir2911/tanvir2911/blob/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tanvir2911/tanvir2911/main/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvir2911&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvir2911&theme=tokyonight&row=1&column=5" />
 </p>
 
 ---

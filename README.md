@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🚀 Software developer building scalable web apps using <strong>Java, Spring Boot, Vue.js, React, Node.js, Express</strong>.  
+🚀 Software developer building scalable web apps using <strong>Java, Spring Boot, Vue.js, React, NextJs, Node.js, Express</strong>.  
 Passionate about problem-solving, AI experiments, and impactful projects.
 </p>
 

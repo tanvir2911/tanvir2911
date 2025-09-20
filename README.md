@@ -113,7 +113,7 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 <p align="center">
 <!-- LeetCode Card -->
 <a href="https://leetcode.com/tanvir2911/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/tanvir2911?theme=dark&font=Fira+Code&ext=contest" width="30%" />
+  <img src="https://leetcard.jacoblin.cool/tanvir2911?theme=dark&font=Fira+Code&ext=contest" width="100%" />
 </a>
 </p>
 

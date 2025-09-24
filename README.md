@@ -76,7 +76,7 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 - **Mini Dashboard Project (Next.js 15, TypeScript, Tailwind, Framer Motion)** –  
   Responsive dashboard with animated statistics cards, posts & users management, error handling, loading states, and authentication via NextAuth.  
   **Live Demo:** [View Live Link](https://nextjs-mini-dashboard.vercel.app)
-  **Repos:** [Code](https://github.com/tanvir2911/nextjs-mini-dashboard)
+  **Repo:** [Code](https://github.com/tanvir2911/nextjs-mini-dashboard)
 
 - **Employee Profile Management** –  
   Employee records management system with profile handling and data persistence.  
@@ -86,11 +86,11 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 - **Competency Assessment Platform** –  
   Multi-stage digital assessment system with role-based access, real-time monitoring, security logging, and analytics.  
   **Tech:** Node.js, Express.js, MongoDB  
-  **Repos:** [Backend](https://github.com/tanvir2911/test-school-backend)
+  **Repo:** [Backend](https://github.com/tanvir2911/test-school-backend)
 
 - **Restaurant Management System** –  
   Complete system with web (Angular + Spring Boot) and mobile (Flutter) apps for restaurant ordering, management, and client services.  
-  **Repos:** [Frontend](https://github.com/tanvir2911/restaurant-spring-angular) | [Backend](https://github.com/tanvir2911/restaurant-spring-render) | [Mobile](https://github.com/tanvir2911/food-restaurant-flutter-app)
+  **Repo:** [Frontend](https://github.com/tanvir2911/restaurant-spring-angular) | [Backend](https://github.com/tanvir2911/restaurant-spring-render) | [Mobile](https://github.com/tanvir2911/food-restaurant-flutter-app)
 
 
 ---

@@ -53,30 +53,42 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 
 <p align="center">
 
-<a href="https://github.com/tanvir2911/" target="_blank">
-  <img src="https://img.shields.io/badge/Cognota-LearnOps-blue?style=for-the-badge&logo=react&logoColor=white" alt="Cognota LearnOps"/>
+<a href="https://github.com/tanvir2911/nextjs-mini-dashboard" target="_blank">
+  <img src="https://img.shields.io/badge/Mini--Dashboard--Project--NextJs-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Mini Dashboard Project with NextJs"/>
 </a>
 
-<a href="https://github.com/tanvir2911/" target="_blank">
-  <img src="https://img.shields.io/badge/RAISE-ERP-green?style=for-the-badge&logo=java&logoColor=white" alt="RAISE ERP"/>
+<a href="https://github.com/tanvir2911/employee-profile-management" target="_blank">
+  <img src="https://img.shields.io/badge/Employee--Profile--Management-green?style=for-the-badge&logo=spring&logoColor=white" alt="Employee Profile Management"/>
 </a>
 
-<a href="https://github.com/tanvir2911/" target="_blank">
-  <img src="https://img.shields.io/badge/Garage--Management--System-orange?style=for-the-badge&logo=nodejs&logoColor=white" alt="Garage Management System"/>
+<a href="https://github.com/tanvir2911/test-school-backend" target="_blank">
+  <img src="https://img.shields.io/badge/Competency--Assessment--Platform-orange?style=for-the-badge&logo=node.js&logoColor=white" alt="Competency Assessment Platform"/>
+</a>
+
+<a href="https://github.com/tanvir2911/restaurant-spring-angular" target="_blank">
+  <img src="https://img.shields.io/badge/Restaurant--Management--System-red?style=for-the-badge&logo=angular&logoColor=white" alt="Restaurant Management System"/>
 </a>
 
 </p>
 
 ### Project Highlights
 
-- **Cognota LearnOps** – Learning operations platform with budgeting modules for 1000+ users.  
-  **Tech:** React, Express.js | **Impact:** 35% increase in budget accuracy, 25% reduction in overspending.
+- **Mini Dashboard Project (Next.js 15, TypeScript, Tailwind, Framer Motion)** –  
+  Responsive dashboard with animated statistics cards, posts & users management, error handling, loading states, and authentication via NextAuth.  
+  **Live Demo:** [nextjs-mini-dashboard.vercel.app](https://nextjs-mini-dashboard.vercel.app)
 
-- **RAISE ERP** – Web-based ERP for Ministry of Expatriates’ Welfare, processing 10k+ applications/month.  
-  **Tech:** Java Spring Boot, Vue.js | **Impact:** 45% decrease in data discrepancies.
+- **Employee Profile Management** –  
+  Employee records management system with profile handling and data persistence.  
+  **Tech:** Spring Boot, Angular
 
-- **Garage Management System** – Booking, scheduling, and client management deployed across 5+ facilities.  
-  **Tech:** Java Spring Boot, Vue.js | **Impact:** 30% reduction in scheduling errors.
+- **Competency Assessment Platform** –  
+  Multi-stage digital assessment system with role-based access, real-time monitoring, security logging, and analytics.  
+  **Tech:** Node.js, Express.js, MongoDB  
+
+- **Restaurant Management System** –  
+  Complete system with web (Angular + Spring Boot) and mobile (Flutter) apps for restaurant ordering, management, and client services.  
+  **Repos:** [Frontend](https://github.com/tanvir2911/restaurant-spring-angular) | [Backend](https://github.com/tanvir2911/restaurant-spring-render) | [Mobile](https://github.com/tanvir2911/food-restaurant-flutter-app)
+
 
 ---
 

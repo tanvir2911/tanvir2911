@@ -80,10 +80,12 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 - **Employee Profile Management** –  
   Employee records management system with profile handling and data persistence.  
   **Tech:** Spring Boot, Angular
+  **Repos:** [Frontend](https://github.com/tanvir2911/employee-profile-management/tree/main/frontend-angular)| [Backend](https://github.com/tanvir2911/employee-profile-management/tree/main/backend-spring-boot) 
 
 - **Competency Assessment Platform** –  
   Multi-stage digital assessment system with role-based access, real-time monitoring, security logging, and analytics.  
   **Tech:** Node.js, Express.js, MongoDB  
+  **Repos:** [Backend](https://github.com/tanvir2911/test-school-backend)
 
 - **Restaurant Management System** –  
   Complete system with web (Angular + Spring Boot) and mobile (Flutter) apps for restaurant ordering, management, and client services.  

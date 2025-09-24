@@ -74,18 +74,18 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 ### Project Highlights
 
 - **Mini Dashboard Project (Next.js 15, TypeScript, Tailwind, Framer Motion)** –  
-  Responsive dashboard with animated statistics cards, posts & users management, error handling, loading states, and authentication via NextAuth.  
-  **Live Demo:** [View Live Link](https://nextjs-mini-dashboard.vercel.app)
+  Responsive dashboard with animated statistics cards, posts & users management, error handling, loading states, and authentication via NextAuth.   
+  **Live Demo:** [View Live Link](https://nextjs-mini-dashboard.vercel.app) 
   **Repo:** [Code](https://github.com/tanvir2911/nextjs-mini-dashboard)
 
 - **Employee Profile Management** –  
   Employee records management system with profile handling and data persistence.  
-  **Tech:** Spring Boot, Angular
-  **Repos:** [Frontend](https://github.com/tanvir2911/employee-profile-management/tree/main/frontend-angular)| [Backend](https://github.com/tanvir2911/employee-profile-management/tree/main/backend-spring-boot) 
+  **Tech:** Spring Boot, Angular.  
+  **Repo:** [Frontend](https://github.com/tanvir2911/employee-profile-management/tree/main/frontend-angular)| [Backend](https://github.com/tanvir2911/employee-profile-management/tree/main/backend-spring-boot) 
 
 - **Competency Assessment Platform** –  
-  Multi-stage digital assessment system with role-based access, real-time monitoring, security logging, and analytics.  
-  **Tech:** Node.js, Express.js, MongoDB  
+  Multi-stage digital assessment system with role-based access, real-time monitoring, security logging, and analytics.   
+  **Tech:** Node.js, Express.js, MongoDB   
   **Repo:** [Backend](https://github.com/tanvir2911/test-school-backend)
 
 - **Restaurant Management System** –  

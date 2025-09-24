@@ -79,7 +79,7 @@ Passionate about problem-solving, AI experiments, and impactful projects.
   **Repo:** [Code](https://github.com/tanvir2911/nextjs-mini-dashboard)
 
 - **Employee Profile Management** –  
-  Employee records management system with profile handling and data persistence.  
+  Employee Profile management system with profile handling and data persistence.  
   **Tech:** Spring Boot, Angular.  
   **Repo:** [Frontend](https://github.com/tanvir2911/employee-profile-management/tree/main/frontend-angular)| [Backend](https://github.com/tanvir2911/employee-profile-management/tree/main/backend-spring-boot) 
 

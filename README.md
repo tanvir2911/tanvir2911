@@ -75,7 +75,7 @@ Passionate about problem-solving, AI experiments, and impactful projects.
 
 - **Mini Dashboard Project (Next.js 15, TypeScript, Tailwind, Framer Motion)** –  
   Responsive dashboard with animated statistics cards, posts & users management, error handling, loading states, and authentication via NextAuth.   
-  **Live Demo:** [View Live Link](https://nextjs-mini-dashboard.vercel.app) 
+  **Live Demo:** [View Live Link](https://nextjs-mini-dashboard.vercel.app)  
   **Repo:** [Code](https://github.com/tanvir2911/nextjs-mini-dashboard)
 
 - **Employee Profile Management** –  
